@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1091918210452",
+    "project_id": "sheets-clients",
+    "storage_bucket": "sheets-clients.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1091918210452:android:b8822e627aa392718f5b81",
+        "android_client_info": {
+          "package_name": "com.example.sheets_clients"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1091918210452-cb7blu5fbg3e38hskaum1rtq3imv11oe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2tNOLRTBvI3edbFjUm7pp6JKtnBv8Qnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1091918210452-cb7blu5fbg3e38hskaum1rtq3imv11oe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
